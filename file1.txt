@@ -1,1 +1,2 @@
 Hello, git!
+Editing a text file.
