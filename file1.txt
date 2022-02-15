@@ -1,2 +1,3 @@
 Hello, git!
 Editing a text file.
+Editing a text file again, but in a new branch.
